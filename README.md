@@ -1,7 +1,7 @@
 # Student-Performance-Indicator
 
 1. Ensure you have Python 3.7+ installed on your system.
-2. Clone this repository and go inside Student-Performance-Indicator folder
+2. Clone this repository and go inside Student-Performance-Indicator folder and open powershell there.
 3. Install the required packages:
 ```
 $ pip install -r requirements.txt
